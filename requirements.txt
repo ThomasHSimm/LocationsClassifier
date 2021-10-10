@@ -1,2 +1,2 @@
-voila
+voila<0.2.0
 fastai>=2
